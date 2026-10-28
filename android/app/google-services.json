@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760737475691",
+    "project_id": "vitiligo-connect-2fd9f",
+    "storage_bucket": "vitiligo-connect-2fd9f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760737475691:android:4840bd86a9f1fc49b7552e",
+        "android_client_info": {
+          "package_name": "com.example.vitiligo_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTf6jephn2q9l16Y6z_ncQgzdRUCimYT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
